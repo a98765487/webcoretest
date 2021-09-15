@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jimmy\\source\\repos\\corewebtest\\corewebtest\\corewebtest.csproj": {}
+    "C:\\workstation\\webcoretest\\corewebtest\\corewebtest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jimmy\\source\\repos\\corewebtest\\corewebtest\\corewebtest.csproj": {
+    "C:\\workstation\\webcoretest\\corewebtest\\corewebtest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jimmy\\source\\repos\\corewebtest\\corewebtest\\corewebtest.csproj",
+        "projectUniqueName": "C:\\workstation\\webcoretest\\corewebtest\\corewebtest.csproj",
         "projectName": "corewebtest",
-        "projectPath": "C:\\Users\\jimmy\\source\\repos\\corewebtest\\corewebtest\\corewebtest.csproj",
+        "projectPath": "C:\\workstation\\webcoretest\\corewebtest\\corewebtest.csproj",
         "packagesPath": "C:\\Users\\jimmy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jimmy\\source\\repos\\corewebtest\\corewebtest\\obj\\",
+        "outputPath": "C:\\workstation\\webcoretest\\corewebtest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
